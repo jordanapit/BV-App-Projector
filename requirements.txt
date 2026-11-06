@@ -1,0 +1,4 @@
+PyQt5
+PyQt-Fluent-Widgets
+pywin32
+darkdetect
